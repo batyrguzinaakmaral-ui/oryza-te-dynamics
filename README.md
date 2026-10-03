@@ -22,32 +22,45 @@ The project aims to assess TE abundance, superfamily composition, and evolutiona
 
 ---
 
-## 🔬 Target Species & Genomes Analyzed (CC-Clade)
+## 🔬 Target Species & Genome Assemblies (CC-Clade Focus)
 
 ### 🧬 Rationale for Focusing on the CC Genome Clade
-Species possessing the **CC genome** (and its polyploid combinations **BBCC** and **CCDD**) represent a critical lineage in the *Oryza* genus for several key evolutionary reasons:
+Species possessing the **CC genome** (and its polyploid combinations **BBCC** and **CCDD**) represent a critical evolutionary lineage in the genus *Oryza* for several key reasons:
 
-1. **Global Geographic & Ecological Diversity:** Unlike the cultivated AA genome species, CC-bearing species are widely distributed across diverse global ecosystems—spanning Asia, Africa, and the Americas. This global distribution provides a unique evolutionary framework to study how TE dynamics correlate with geographic adaptation and environmental stress.
-2. **Polyploid & Hybridization Dynamics:** Comparing diploid CC species (*O. officinalis*) with allopolyploids (**BBCC**: *O. minuta*, *O. malampuzhaensis*; **CCDD**: *O. alta*, *O. latifolia*, *O. grandiglumis*) allows us to investigate how transposable elements behave during genome merging (polyploidization) and whether TE family expansions/contractions drive structural changes between subgenomes.
-3. **Drivers of Structural Variation & Inversions:** TEs are major catalysts for chromosomal inversions, translocations, and synteny breakpoints. Studying TE activity across these 6 representative genomes helps elucidate the precise mechanisms underlying genome-rearrangement dynamics across the *Oryza* genus.
+1. **Global Geographic & Ecological Diversity:** Unlike the cultivated AA genome species, CC-bearing species are widely distributed across diverse global ecosystems—spanning Asia, Africa, and the Americas. This global distribution provides a unique framework to study how TE dynamics correlate with biogeography, ecology, and environmental adaptation.
+2. **Polyploid & Hybridization Dynamics:** Comparing diploid CC species (*O. officinalis*) with allopolyploids (**BBCC**: *O. minuta*, *O. malampuzhaensis*; **CCDD**: *O. alta*, *O. latifolia*, *O. grandiglumis*) allows us to investigate how transposable elements behave during genome merging (polyploidization) and whether TE family expansions/contractions drive structural divergence between subgenomes.
+3. **Drivers of Structural Variation & Inversions:** TEs are major catalysts for chromosomal inversions, translocations, and synteny breakpoints. Studying TE activity across these representative genomes helps elucidate the precise mechanisms underlying genome-rearrangement dynamics across the *Oryza* genus.
 
 ---
 
-### 📊 Included Assemblies
+### 🌐 Conceptual Overview of Target Genotypes
 
-The dataset currently includes **6 target assemblies** spanning CC, BBCC, and CCDD genome types:
+| Genome Type | Representative Species | Geographic Distribution |
+| :--- | :--- | :--- |
+| **CC** | *Oryza officinalis*, *Oryza rhizomatis*, *Oryza eichingeri* | Asia / Africa |
+| **BBCC** | *Oryza punctata* (allopolyploid), *Oryza minuta*, *Oryza malampuzhaensis* | Africa / Asia |
+| **CCDD** | *Oryza latifolia*, *Oryza alta*, *Oryza grandiglumis* | Americas |
 
-| Genome Type | Species | Assembly Accession | Status |
-| :--- | :--- | :--- | :--- |
-| **CC** | *Oryza officinalis* | `GCA_008326285.1` | 🟢 Retained |
-| **BBCC** | *Oryza minuta* | `GCA_048166525.1` | 🟢 Retained |
-| **BBCC** | *Oryza malampuzhaensis* | `GCA_048564985.1` | 🟢 Retained |
-| **CCDD** | *Oryza alta* | `GCA_047899615.1` | 🟢 Retained |
-| **CCDD** | *Oryza latifolia* | `GCA_048174585.1` | 🟢 Retained |
-| **CCDD** | *Oryza grandiglumis* | `GCA_048188845.1` | 🟢 Retained |
+---
 
-> 🟢 **Total Genomes:** 6 / 6 assemblies configured for downstream TE dynamics, RiTE DB validation, and structural rearrangement analysis.
+### 📊 Assembly Selection & Retained Status
 
+The initial target set comprises **9 species** across CC, BBCC, and CCDD genome types. Currently, **6 species have retained high-quality assemblies** for downstream TE analysis, while 3 species remain pending/not retained.
+
+| Genome Type | Species | Geographic Distribution | Assembly Accession | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **CC** | *Oryza officinalis* | Asia / Africa | `GCA_008326285.1` | 🟢 Retained |
+| **CC** | *Oryza eichingeri* | Africa | — | 🔴 Not Retained (Pending assembly) |
+| **CC** | *Oryza rhizomatis* | Asia | — | 🔴 Not Retained (Pending assembly) |
+| **BBCC** | *Oryza minuta* | Asia | `GCA_048166525.1` | 🟢 Retained |
+| **BBCC** | *Oryza malampuzhaensis* | Asia | `GCA_048564985.1` | 🟢 Retained |
+| **BBCC** | *Oryza punctata* | Africa | — | 🔴 Not Retained (Pending assembly) |
+| **CCDD** | *Oryza alta* | Americas | `GCA_047899615.1` | 🟢 Retained |
+| **CCDD** | *Oryza latifolia* | Americas | `GCA_048174585.1` | 🟢 Retained |
+| **CCDD** | *Oryza grandiglumis* | Americas | `GCA_048188845.1` | 🟢 Retained |
+
+> 🟢 **Retained Assemblies:** 6 / 9 genomes configured for TE dynamics, RiTE DB validation, and structural rearrangement profiling.  
+> 🔴 **Not Retained Assemblies:** 3 / 9 genomes awaiting high-resolution assembly integration.
 ---
 
 ## 📂 Repository Structure
