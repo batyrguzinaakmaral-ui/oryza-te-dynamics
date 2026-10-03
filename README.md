@@ -42,9 +42,9 @@ The project aims to assess TE abundance, superfamily composition, and evolutiona
 | `src/` | Helper Python modules and R plotting functions |
 | `docs/poster/` | Project poster layout, figures, and presentation materials |
 
----
+--- 55555
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 * **Environments:** CyVerse Discovery Environment / UArizona HPC (Open OnDemand)
 * **Languages:** Python (Pandas, NumPy, Biopython, Seaborn), R (ggplot2, GenomicRanges, tidyverse)
 * **TE Tools:** EDTA, RepeatMasker, BLAST+, RiTE Database
