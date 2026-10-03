@@ -83,6 +83,13 @@ The initial target set comprises **9 species** across CC, BBCC, and CCDD genome 
 ---
 
 ## 👥 Project Team & Acknowledgments
-* **Investigators:** Akmaral Batyrguzhina, Daniil Gerassimov
-* **Advisors / PIs:** Michael, Dr. Rod A. Wing
-* **Institution:** University of Arizona (UArizona) / W.M. Keck Center for Genome Sciences
+
+* **Investigators:**
+  * **Akmaral Batyrguzhina** — [akmaralb@arizona.edu](mailto:akmaralb@arizona.edu)
+  * **Daniil Gerassimov** — [daniilgerassimov@arizona.edu](mailto:daniilgerassimov@arizona.edu)
+* **PIs:**
+  * **Md Nafis Ul Alam (Michael)** — [mdalam@arizona.edu](mailto:mdalam@arizona.edu)
+  * **Rod A. Wing** — [rwing@arizona.edu](mailto:rwing@arizona.edu)
+  * **Andrea Zuccolo** — [azuccolo@arizona.edu](mailto:azuccolo@arizona.edu)
+* **Institution & Facility:**
+  * **University of Arizona (UArizona)** — BIO5 Institute (Keating Bioresearch Building) / W.M. Keck Center for Genome Sciences
