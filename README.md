@@ -71,7 +71,14 @@ Below is the relative genomic abundance (%) of structurally intact (recently act
   <img src="docs/poster/1002%20plot1_cc_clade_zscore.png" alt="Intact TE Composition Z-score Normalized" width="90%">
 </p>
 
-*Figure 1: Heatmap showing the proportion of genome occupied by intact TE superfamilies (log scale). Helitron elements display high baseline abundance across all 6 species, while Gypsy_LTR_retrotransposons show species-specific expansion, most notably in O. latifolia.*
+Figure 1: Heatmap showing the proportion of genome occupied by intact TE superfamilies (log scale). Helitron elements display high baseline abundance across all 6 species, while Gypsy_LTR_retrotransposons show species-specific expansion, most notably in O. latifolia.
+
+<p align="center">
+  <img src="docs/poster/1002%20plot2_genomesize_vs_te.png" alt="Genome Size vs TE Burden" width="90%">
+</p>
+
+Figure 2: Relative enrichment and depletion of intact TE superfamilies across species (Z-score standardized across rows). Highlights lineage-specific shifts in TE accumulation across diploid and polyploid CC-bearing species.
+
 ---
 
 ## 📂 Repository Structure
