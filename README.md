@@ -61,6 +61,15 @@ The initial target set comprises **9 species** across CC, BBCC, and CCDD genome 
 
 > 🟢 **Retained Assemblies:** 6 / 9 genomes configured for TE dynamics, RiTE DB validation, and structural rearrangement profiling.  
 > 🔴 **Not Retained Assemblies:** 3 / 9 genomes awaiting high-resolution assembly integration.
+
+## 📊 TE Composition Analysis
+
+### Intact TE Composition Across CC-Clade Species
+Below is the relative genomic abundance (%) of structurally intact (recently active) transposable elements across the 6 analyzed *Oryza* CC-clade genomes:
+
+![Intact TE Composition across CC-clade Oryza Species](docs/plot1_cc_clade_absolute_log.png)
+
+*Figure 1: Heatmap showing the proportion of genome occupied by intact TE superfamilies (log scale). Helitron elements display high baseline abundance across all 6 species, while Gypsy_LTR_retrotransposons show species-specific expansion, most notably in O. latifolia.*
 ---
 
 ## 📂 Repository Structure
