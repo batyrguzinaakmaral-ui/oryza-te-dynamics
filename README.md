@@ -105,9 +105,10 @@ Figure 2: Relative enrichment and depletion of intact TE superfamilies across sp
 * **Investigators:**
   * **Akmaral Batyrguzhina** — [akmaralb@arizona.edu](mailto:akmaralb@arizona.edu)
   * **Daniil Gerassimov** — [daniilgerassimov@arizona.edu](mailto:daniilgerassimov@arizona.edu)
+  * **Sofiya Sinitsina** — [sofiyasinitsina@arizona.edu](mailto:sofiyasinitsina@arizona.edu)
 * **PIs:**
   * **Andrea Zuccolo** — [azuccolo@arizona.edu](mailto:azuccolo@arizona.edu)
-  * **Md Nafis Ul Alam (Michael)** — [mdalam@arizona.edu](mailto:mdalam@arizona.edu)
+  * **Md Nafis Ul Alam** — [mdalam@arizona.edu](mailto:mdalam@arizona.edu)
   * **Rod A. Wing** — [rwing@arizona.edu](mailto:rwing@arizona.edu)
 * **Institution & Facility:**
   * **University of Arizona (UArizona)** — BIO5 Institute (Keating Bioresearch Building) / W.M. Keck Center for Genome Sciences
