@@ -37,18 +37,19 @@ This folder contains preliminary plots, figure drafts, and poster layouts create
 - **Temporary / Working Files:**
   * `draft_notes_temp.txt` — Working notes / temporary draft text file.
 
+
 <p align="center">
-  <img src="plot1_cc_clade_absolute_log.png" alt="Intact TE Composition (Absolute Log Scale)" width="90%">
+  <img src="docs/poster/plot1_cc_clade_absolute_log.png" alt="Intact TE Composition (Absolute Log Scale)" width="90%">
 </p>
 
 ---
 
 <p align="center">
-  <img src="1002%20plot1_cc_clade_zscore.png" alt="Intact TE Composition Z-score Normalized" width="90%">
+  <img src="docs/poster/1002%20plot1_cc_clade_zscore.png" alt="Intact TE Composition Z-score Normalized" width="90%">
 </p>
 
 ---
 
 <p align="center">
-  <img src="1002%20plot2_genomesize_vs_te.png" alt="Genome Size vs TE Burden" width="90%">
+  <img src="docs/poster/1002%20plot2_genomesize_vs_te.png" alt="Genome Size vs TE Burden" width="90%">
 </p>
