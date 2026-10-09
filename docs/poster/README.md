@@ -39,17 +39,23 @@ This folder contains preliminary plots, figure drafts, and poster layouts create
 
 
 <p align="center">
-  <img src="plot1_cc_clade_absolute_log.png" alt="Intact TE Composition (Absolute Log Scale)" width="90%">
+  <img src="fig08_intact_te_absolute_log.png" alt="Intact TE Composition (Absolute Log Scale)" width="90%">
 </p>
+
+*Figure 1: Heatmap of structurally intact TE superfamily proportions across 6 CC-clade genomes (log scale).*
 
 ---
 
 <p align="center">
-  <img src="1002%20plot1_cc_clade_zscore.png" alt="Intact TE Composition Z-score Normalized" width="90%">
+  <img src="1002_fig3_intact_te_zscore.png" alt="Intact TE Composition Z-score Normalized" width="90%">
 </p>
+
+*Figure 2: Relative enrichment and depletion of intact TE superfamilies across species (Z-score standardized).*
 
 ---
 
 <p align="center">
-  <img src="1002%20plot2_genomesize_vs_te.png" alt="Genome Size vs TE Burden" width="90%">
+  <img src="1002_fig4_genomesize_vs_te_burden.png" alt="Genome Size vs TE Burden" width="90%">
 </p>
+
+*Figure 3: Linear relationship between assembly genome size (Mb) and overall TE burden.*
