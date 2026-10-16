@@ -5,14 +5,14 @@
 [![R 4.2+](https://img.shields.io/badge/R-4.2+-blue.svg)](https://www.r-project.org/)
 [![Platform: CyVerse / OpenOnDemand](https://img.shields.io/badge/Platform-CyVerse%20%7C%20UA%20HPC-red.svg)](https://cyverse.org/)
 
-## 📌 Project Overview
+## Project Overview
 This repository contains the bioinformatic pipeline, data analysis scripts, and visualization tools for investigating Transposable Element (TE) dynamics across the genus *Oryza*, with a specific focus on species harbouring **CC, BBCC, and CCDD genomes**.
 
 The project aims to assess TE abundance, superfamily composition, and evolutionary dynamics (expansions/contractions), test and validate the **RiTE database**, and correlate TE distribution with large-scale structural variations (inversions and genome rearrangements).
 
 ---
 
-## 🎯 Deliverables & Objectives
+## Deliverables & Objectives
 1. **Standardized TE Annotation:** Genome-wide annotation of representative *Oryza* species using established pipelines (EDTA, RepeatMasker).
 2. **RiTE Database Validation:** Evaluation of the RiTE database against newly annotated genomes to identify missing, redundant, or misclassified TE families.
 3. **Comparative Analysis (CC-genome Focus):** Comparative profiling of TE content across 9 global species containing CC genome types (3 CC, 3 BBCC, 3 CCDD).
@@ -22,9 +22,9 @@ The project aims to assess TE abundance, superfamily composition, and evolutiona
 
 ---
 
-## 🔬 Target Species & Genome Assemblies (CC-Clade Focus)
+## Target Species & Genome Assemblies (CC-Clade Focus)
 
-### 🧬 Rationale for Focusing on the CC Genome Clade
+### Rationale for Focusing on the CC Genome Clade
 Species possessing the **CC genome** (and its polyploid combinations **BBCC** and **CCDD**) represent a critical evolutionary lineage in the genus *Oryza* for several key reasons:
 
 1. **Global Geographic & Ecological Diversity:** Unlike the cultivated AA genome species, CC-bearing species are widely distributed across diverse global ecosystems—spanning Asia, Africa, and the Americas. This global distribution provides a unique framework to study how TE dynamics correlate with biogeography, ecology, and environmental adaptation.
@@ -33,7 +33,7 @@ Species possessing the **CC genome** (and its polyploid combinations **BBCC** an
 
 ---
 
-### 🌐 Conceptual Overview of Target Genotypes
+### Conceptual Overview of Target Genotypes
 
 | Genome Type | Representative Species | Geographic Distribution |
 | :--- | :--- | :--- |
@@ -43,7 +43,7 @@ Species possessing the **CC genome** (and its polyploid combinations **BBCC** an
 
 ---
 
-### 📊 Assembly Selection & Retained Status
+### Assembly Selection & Retained Status
 
 The initial target set comprises **9 species** across CC, BBCC, and CCDD genome types. Currently, **6 species have retained high-quality assemblies** for downstream TE analysis, while 3 species remain pending/not retained.
 
@@ -62,7 +62,7 @@ The initial target set comprises **9 species** across CC, BBCC, and CCDD genome 
 > 🟢 **Retained Assemblies:** 6 / 9 genomes configured for TE dynamics, RiTE DB validation, and structural rearrangement profiling.  
 > 🔴 **Not Retained Assemblies:** 3 / 9 genomes awaiting high-resolution assembly integration.
 
-## 📊 TE Composition Analysis
+## TE Composition Analysis
 
 ### Intact TE Composition Across CC-Clade Species
 Below is the relative genomic abundance (%) of structurally intact (recently active) transposable elements across the 6 analyzed *Oryza* CC-clade genomes:
@@ -81,7 +81,7 @@ Figure 2: Relative enrichment and depletion of intact TE superfamilies across sp
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 | Directory / File | Description |
 | :--- | :--- |
@@ -93,14 +93,14 @@ Figure 2: Relative enrichment and depletion of intact TE superfamilies across sp
 
 ---
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 * **Environments:** CyVerse Discovery Environment / UArizona HPC (Open OnDemand)
 * **Languages:** Python (Pandas, NumPy, Biopython, Seaborn), R (ggplot2, GenomicRanges, tidyverse)
 * **TE Tools:** EDTA, RepeatMasker, BLAST+, RiTE Database
 
 ---
 
-## 👥 Project Team & Acknowledgments
+## Project Team & Acknowledgments
 
 * **Investigators:**
   * **Akmaral Batyrguzhina** — [akmaralb@arizona.edu](mailto:akmaralb@arizona.edu)
