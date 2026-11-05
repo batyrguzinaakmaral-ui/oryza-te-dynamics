@@ -1,5 +1,5 @@
-# ГРАФКИ ДОБАВТЬ, ЗНАЧКИ УБРАТЬ
-
+# ГРАФКИ ДОБАВИТЬ, ЗНАЧКИ УБРАТЬ
+изменить таблицу, теперь все есть геномы
 ---
 
 # Transposable Element Dynamics and Genome Rearrangements in *Oryza* Genomes
