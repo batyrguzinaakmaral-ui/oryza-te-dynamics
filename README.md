@@ -66,6 +66,9 @@ The initial target set comprises **9 species** across CC, BBCC, and CCDD genome 
 
 ### Intact TE Composition Across CC-Clade Species
 Below is the relative genomic abundance (%) of structurally intact (recently active) transposable elements across the 6 analyzed *Oryza* CC-clade genomes:
+_________----
+---
+##**ГРАФИКИ**
 
 <p align="center">
   <img src="docs/poster/1002%20plot1_cc_clade_zscore.png" alt="Intact TE Composition Z-score Normalized" width="90%">
