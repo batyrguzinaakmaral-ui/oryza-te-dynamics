@@ -1,0 +1,7 @@
+genome	species	genome_type	mating_system	n_intact_elements	total_bp_intact	genome_size	cc_clade_group
+GCA_008326285.1_Oryza_officinalis_CC	Oryza_officinalis	CC	outcrossing	5636	12488024	584134210	CC
+GCA_048166525.1_Oryza_minuta_BBCC	Oryza_minuta	BBCC	unknown	10512	21728753	988240111	BBCC
+GCA_048564985.1_Oryza_malampuzhaensis_BBCC	Oryza_malampuzhaensis	BBCC	unknown	10469	20705910	944648066	BBCC
+GCA_047899615.1_Oryza_alta_CCDD	Oryza_alta	CCDD	unknown	9213	17664158	909016761	CCDD
+GCA_048174585.1_Oryza_latifolia_CCDD	Oryza_latifolia	CCDD	unknown	9414	23649022	1124189071	CCDD
+GCA_048188845.1_Oryza_grandiglumis_CCDD	Oryza_grandiglumis	CCDD	unknown	10083	19165275	874293245	CCDD
